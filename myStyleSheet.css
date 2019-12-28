@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(51, 50, 49);
+}
+
+.text_heading {
+  color: rgb(219, 110, 21);
+  font-weight: bolder;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+
+  /* Set the fixed height of the footer here */
+
+  /* Vertically center the text there */
+}
