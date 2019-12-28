@@ -1,0 +1,2 @@
+# CSV-EXCELL-FILE-UPLOAD-AND-DISPLAY
+This is a website where we can upload .csv or .xlsx files in the database with a required table name. It can also show the name of the tables present in it and data of a particular table. We can update the data of any particular table inserting new csv file and manually also. By this project we can see how we can connect Python and Java to a website through PHP very easily and access the database at the same time.
